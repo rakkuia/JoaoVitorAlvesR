@@ -20,13 +20,11 @@
   <img align="center" alt="Joao-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="center" alt="Joao-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="Joao-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img align="center" alt="Joao-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+  <img align="center" alt="Joao-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /></br>
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" 
   src="https://cdn.discordapp.com/attachments/719330020866130004/946839031503810600/download20220205153032.png">
 </div>
-</br>
-</br>
-</br>
+
    ##
    
 <div> 
