@@ -24,7 +24,9 @@
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" 
   src="https://cdn.discordapp.com/attachments/719330020866130004/946839031503810600/download20220205153032.png">
 </div>
-
+</br>
+</br>
+</br>
    ##
    
 <div> 
