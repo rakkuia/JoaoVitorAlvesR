@@ -7,7 +7,7 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVitorAlvesR&theme=tokyonight&layout=compact)
-<img align="left" width="450px" alt="Joao stats" src="https://github-readme-stats.vercel.app/api?username=JoaoVitorAlvesR&theme=tokyonight&show_icons=false" />
+<img align="left" width="450px" alt="JoaoVitorAlvesR stats" src="https://github-readme-stats.vercel.app/api?username=JoaoVitorAlvesR&theme=tokyonight&show_icons=false" />
 
 </br>
 </br>
