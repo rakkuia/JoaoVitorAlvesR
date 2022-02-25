@@ -7,10 +7,8 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVitorAlvesR&theme=tokyonight&layout=compact)
-<img align="left" width="450px" alt="Joao Vitor stats" src="https://github-readme-stats.vercel.app/api?username=JoaoVitorAlvesR&theme=tokyonight&show_icons=false" />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gutasvin&theme=tokyonight&layout=compact)
-<img align="left" width="450px" alt="Gutasvin stats" src="https://github-readme-stats.vercel.app/api?username=Gutasvin&theme=tokyonight&show_icons=false" />
-</br>
+<img align="left" width="450px" alt="Joao stats" src="https://github-readme-stats.vercel.app/api?username=JoaoVitorAlvesR&theme=tokyonight&show_icons=false" />
+
 </br>
 </br>
 
