@@ -1,9 +1,11 @@
 ## Olá, Eu sou o João Vitor 👋
 
-- 🔭 Eu estou atualmente trabalhando com Desenvolvimento de Software!
-- 🌱 Estou aprendendo Java e seus tecnologias!
-- 📕 Muito interessado de aprender tecnologias!
-- ↗️ Eu sou muito focado nos meus objetivos!
+- 🔭  Eu estou atualmente trabalhando com Desenvolvimento de Software!
+- 🌱  Estou aprendendo Java e suas tecnologias!
+- 📕  Muito interessado em aprender tecnologias!
+- ↗️  Estudo para me tornar um desenvolvedor competente!
+
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoVitorAlvesR&show_icons=true&theme=radical)
