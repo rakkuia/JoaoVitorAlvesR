@@ -1,7 +1,7 @@
 ## Olá, Eu sou o João Vitor 👋
 
 - 🔭  Eu estou atualmente trabalhando com Desenvolvimento de Software!
-- 🌱  Estou aprendendo Java e suas tecnologias!
+- 🌱  Estou estudando Node.js e NestJS!
 - 📕  Muito interessado em aprender tecnologias!
 - ↗️  Estudo para me tornar um desenvolvedor competente!
 
