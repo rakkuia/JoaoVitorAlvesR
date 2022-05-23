@@ -5,7 +5,7 @@
 - 📕  Muito interessado em aprender tecnologias!
 - ↗️  Estudo para me tornar um desenvolvedor competente!
 
-
+//pipipoopoo
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoVitorAlvesR&show_icons=true&theme=radical)
